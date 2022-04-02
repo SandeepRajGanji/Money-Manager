@@ -1,4 +1,6 @@
-In this project, let's build a **Money Manager** app by applying the concepts we have learned till now.
+find the project @ https://trackexpenseraj.ccbp.tech/
+
+In this project, let's build a **Money Manager** app using react
 
 ### Refer to the image below:
 
